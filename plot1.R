@@ -3,6 +3,7 @@
 # Based upon Electric Power Consumption Data provided by
 # UC Irvine Machine Learning Repository 
 # https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip
+# Unzip the above file into household_power_consumption.txt 
 
 # "Subsetting" the data before loading it all in
 # Manual inspection of the text file reveals that the data for 2/1/2007  
