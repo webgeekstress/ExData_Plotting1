@@ -28,7 +28,6 @@ dat$DateTime <- strptime(paste(dat$Date,dat$Time), "%d/%m/%Y %H:%M:%S")
 png(file="plot4.png", height=480, width=480, bg="transparent", type="cairo")
 
 par(mfrow=c(2,2))
-par(mar=c(4,2,2,2))
 # The global reactive power chart from plot2.R
 plot(dat$DateTime, dat$Global.Active.Power,
      type="l",
