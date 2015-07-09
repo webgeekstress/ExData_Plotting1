@@ -1,24 +1,13 @@
 ## Introduction
-<<<<<<< HEAD
 This is the first course assignment for the Coursera course,
 Exploratory Data Analysis.
-=======
->>>>>>> 9001d8a3c1a0fba3ddc2e9b0a48d3927395c734d
 
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
-<<<<<<< HEAD
 datasets. In particular, it uses the "Individual household
 electric power consumption Data Set", available on the course
 website:
-=======
-datasets. In particular, we will be using the "Individual household
-electric power consumption Data Set" which I have made available on
-the course web site:
->>>>>>> 9001d8a3c1a0fba3ddc2e9b0a48d3927395c734d
-
-
 * <b>Dataset</b>: <a href="https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip">Electric power consumption</a> [20Mb]
 
 * <b>Description</b>: Measurements of electric power consumption in
@@ -44,34 +33,6 @@ web site</a>:
 <li><b>Sub_metering_3</b>: energy sub-metering No. 3 (in watt-hour of active energy). It corresponds to an electric water-heater and an air-conditioner.</li>
 </ol>
 
-<<<<<<< HEAD
-=======
-## Loading the data
-
-
-
-
-
-When loading the dataset into R, please consider the following:
-
-* The dataset has 2,075,259 rows and 9 columns. First
-calculate a rough estimate of how much memory the dataset will require
-in memory before reading into R. Make sure your computer has enough
-memory (most modern computers should be fine).
-
-* We will only be using data from the dates 2007-02-01 and
-2007-02-02. One alternative is to read the data from just those dates
-rather than reading in the entire dataset and subsetting to those
-dates.
-
-* You may find it useful to convert the Date and Time variables to
-Date/Time classes in R using the `strptime()` and `as.Date()`
-functions.
-
-* Note that in this dataset missing values are coded as `?`.
-
-
->>>>>>> 9001d8a3c1a0fba3ddc2e9b0a48d3927395c734d
 ## Making Plots
 
 Our overall goal here is simply to examine how household energy usage
@@ -79,11 +40,7 @@ varies over a 2-day period in February, 2007. Your task is to
 reconstruct the following plots below, all of which were constructed
 using the base plotting system.
 
-<<<<<<< HEAD
 This is a fork and clone of the following GitHub repository:
-=======
-First you will need to fork and clone the following GitHub repository:
->>>>>>> 9001d8a3c1a0fba3ddc2e9b0a48d3927395c734d
 [https://github.com/rdpeng/ExData_Plotting1](https://github.com/rdpeng/ExData_Plotting1)
 
 
@@ -132,5 +89,3 @@ The four plots that you will need to construct are shown below.
 ### Plot 4
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
-
->>>>>>> 9001d8a3c1a0fba3ddc2e9b0a48d3927395c734d
